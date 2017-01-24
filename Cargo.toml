@@ -1,0 +1,6 @@
+[package]
+name = "multi-dimensional-plotter-rust"
+version = "0.1.0"
+authors = ["Charlotte Lily Fields <charlottelilyfields48@gmail.com>"]
+
+[dependencies]
