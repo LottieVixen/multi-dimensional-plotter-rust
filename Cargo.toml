@@ -5,3 +5,4 @@ authors = ["Charlotte Lily Fields <charlottelilyfields48@gmail.com>",
            "Andrea Pascal <andrea@anodium.net>"]
 
 [dependencies]
+glium = "*"
